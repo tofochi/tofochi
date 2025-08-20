@@ -1,8 +1,6 @@
 ![sahdhasd](https://100.games/wp-content/uploads/2021/09/2-10.jpg)
 # Hi, a im tofochi 👋
 
-### About me 🤔
-
 
 <!--
 **tofochi/tofochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
